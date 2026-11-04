@@ -23,3 +23,8 @@ Me interesa el desarrollo de software, desde la lógica de programación hasta a
 [![Proyecto-de-Software](https://img.shields.io/badge/Proyecto--de--Software-30363d?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aure-lab/Proyecto-de-Software)
 [![TTPS](https://img.shields.io/badge/TTPS-30363d?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aure-lab/TTPS)
 [![OO2](https://img.shields.io/badge/OO2-30363d?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aure-lab/OO2)
+
+## 📫 Contacto
+
+- LinkedIn: https://www.linkedin.com/in/santiago-ferreyra-dev/
+- Mail: santiferreyra528@gmail.com
