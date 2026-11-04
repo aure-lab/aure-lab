@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.png" alt="whoami" width="100%">
+  <img src="image.png" alt="whoami" width="100%">
 </p>
 
 # ¡Hola! Soy Santiago 👋
