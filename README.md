@@ -7,3 +7,6 @@
 [![Proyecto-de-Software](https://img.shields.io/badge/Proyecto--de--Software-30363d?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aure-lab/Proyecto-de-Software)
 [![TTPS](https://img.shields.io/badge/TTPS-30363d?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aure-lab/TTPS)
 [![OO2](https://img.shields.io/badge/OO2-30363d?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aure-lab/OO2)
+
+[![TTPS](https://github-readme-stats.vercel.app/api/pin/?username=aure-lab&repo=TTPS&bg_color=21262d&border_color=6e7681&title_color=c9d1d9&text_color=8b949e&icon_color=8b949e&border_radius=10)](https://github.com/aure-lab/TTPS)
+[![OO2](https://github-readme-stats.vercel.app/api/pin/?username=aure-lab&repo=OO2&bg_color=21262d&border_color=6e7681&title_color=c9d1d9&text_color=8b949e&icon_color=8b949e&border_radius=10)](https://github.com/aure-lab/OO2)
