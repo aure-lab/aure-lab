@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/banner.png" alt="whoami" width="100%">
+</p>
+
 # ¡Hola! Soy Santiago 👋
 
 Estudiante de la **Analista Programador Universitario** y la **Licenciatura en Sistemas** en la **UNLP**, viviendo en La Plata, Buenos Aires.
